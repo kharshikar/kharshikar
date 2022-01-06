@@ -1,11 +1,11 @@
 - 👋 Hi, I’m Prasanna Kharshikar Blockchain Archietct / Believer
 
 - 👀 I’m interested in ...
-- 
+
 - 🌱 I’m currently learning DeFi protocols
-- 
+ 
 - 💞️ I’m looking to collaborate on ...
-- 
+ 
 - 📫 How to reach me at prasanna@iitbombay.org
 
 <!---
