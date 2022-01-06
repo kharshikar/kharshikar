@@ -2,7 +2,7 @@
 
 - 👀 I’m interested in ...
 
-- 🌱 I’m currently learning DeFi protocols
+- 🌱 I’m currently learning DeFi Protocols/ Solana / Ethereum 
  
 - 💞️ I’m looking to collaborate on ...
  
