@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Prasanna Kharshikar Blockchain Archietct / Believer
+- 👋 Hi, I’m Prasanna Kharshikar Blockchain Architect / Believer
 
 - 👀 I’m interested in ...
 
